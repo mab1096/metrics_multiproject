@@ -1,5 +1,5 @@
 # metrics_multiproject
-# Multiple Projects from my Econometrics Class
+# **Multiple Projects from my Econometrics Class**
 
 ## Part 1  - CigInc Health Effects Project:
 
